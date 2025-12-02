@@ -1,0 +1,37 @@
+# ゆうゆ – クローバー♧クラブ -C♧C-
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Let it "Clover Club", the beautiful love
+準備が出来たら――
+Aha　この世界がくるくる回る夢で
+僕ら気付いてるんだ　みんな知らないフリで
+ずっと気になっていたあの子はそっと僕に
+ナイフを突きつけて笑い「また明日ね」と残す
+マワルマワルソラ　ウタウウタウハナ
+メグルメグルキセツノナカデ
+Let it "Clover Club", the beautiful love
+レモンジュースを注いで
+Let it "Clover Club", the beautiful love
+卵白はよく混ぜてね
+Let it "Clover Club", the beautiful love
+グレナデンシロップ入れて
+Let it "Clover Club", the beautiful love
+ドライジンも忘れずに
+一寸如何したのかな？　泣いてばかりいないで
+笑顔になれば届くよ　きみの心にクローバー
+ゆらり　ゆらり　ゆれる
+ハシルハシルカゼ　ユレルユレルハート
+アマイアマイユメ　ニガイニガイコイ
+メグルメグルジダイノナカデ
+Let it "Clover Club", the beautiful love
+溶けない氷を入れて
+Let it "Clover Club", the beautiful love
+ストレーナー、トップして
+Let it "Clover Club", the beautiful love
+両手に想いを込めて
+Let it "Clover Club", the beautiful love
+準備が出来たらLet's shake!
+上手に出来たらKP!
+```
