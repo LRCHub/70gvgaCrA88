@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "クローバー♧クラブ -C♧C-",
+  "base_artist": "ゆうゆ",
+  "createdAt": "2025-12-02T12:13:54.145012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クローバー♣クラブ (Game Version)",
+      "artist": "ゆうゆ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_クローバー♣クラブ_(Game_Version)_ゆうゆ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クローバー♣クラブ",
+      "artist": "ゆうゆ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_クローバー♣クラブ_ゆうゆ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クローバー♣クラブ",
+      "artist": "ゆうゆ",
+      "has_synced": true,
+      "path": "select/03_クローバー♣クラブ_ゆうゆ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "クローバー クラブ",
+      "artist": "ゆうゆ",
+      "has_synced": true,
+      "path": "select/04_クローバー_クラブ_ゆうゆ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "クローバー♣クラブ (Game Version)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_クローバー♣クラブ_(Game_Version)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "クローバー・クラブ",
+      "artist": "ゆうゆ & 初音ミク",
+      "has_synced": true,
+      "path": "select/06_クローバー・クラブ_ゆうゆ_&_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "クローバー・クラブ feat. 初音ミク",
+      "artist": "ゆうゆ",
+      "has_synced": true,
+      "path": "select/07_クローバー・クラブ_feat._初音ミク_ゆうゆ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "クローバー・クラブ (feat. 初音ミク)",
+      "artist": "ゆうゆ",
+      "has_synced": true,
+      "path": "select/08_クローバー・クラブ_(feat._初音ミク)_ゆうゆ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "クローバー・クラブ",
+      "artist": "ゆうゆ",
+      "has_synced": true,
+      "path": "select/09_クローバー・クラブ_ゆうゆ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "クローバー♣クラブ",
+      "artist": "ゆや。",
+      "has_synced": true,
+      "path": "select/10_クローバー♣クラブ_ゆや。.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "クローバー♣クラブ",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/11_クローバー♣クラブ_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クローバー♧クラブ -C♧C-",
+      "artist": "ゆうゆ",
+      "has_synced": false,
+      "path": "select/pl_01_クローバー♧クラブ_-C♧C-_ゆうゆ.txt"
+    }
+  ]
+}
